@@ -1,0 +1,24 @@
+
+p
+java:S1450"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ
+t
+java:S1450"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ
+t
+java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãş×Äüÿÿÿÿ
+E
+java:S1611C"/Remove the parentheses around the "v" parameter(ÒÑŞ
+T
+java:S1874G">Remove this use of "startActivityForResult"; it is deprecated.(îü‰”
+_
+java:S1874u"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+?
+java:S1185‰"(Remove this method to simply inherit it.(èõ¢®
+_
+java:S1854“"CRemove this useless assignment to local variable "resultMessageId".(­ê¦¯şÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û†ö™
+C
+java:S1604-"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ
+>
+java:S16044"(Make this anonymous inner class a lambda(éäó‚
+C
+java:S1604;"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ

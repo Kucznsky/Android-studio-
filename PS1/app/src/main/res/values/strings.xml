@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PS1</string>
+    <string name="button_true">PRAWDA</string>
+    <string name="button_false">FALSZ</string>
+    <string name="button_next">NASTEPNE</string>
+    <string name="button_help">PODPOWIEDŹ</string>
+
+    <string name="q_activity">Activity jest jednym z komponentow aplikacji Android</string>
+    <string name="q_version">Android 8 to najnowsza wersja systemu android</string>
+    <string name="q_listener">Aplikacje dla systemu android sa sterowane zdarzeniowo</string>
+    <string name="q_resources">Zasoby aplikacji dla systemu Android definiuje sie w plikach .xml</string>
+    <string name="q_find_resources">Do zasobow w aplikacji dla systemu Android odnosimy sie po nazwach</string>
+    <string name="answer_was_shown">Oszukujesz! Odp byla wyswietlona.</string>
+    <string name="correct_answer">Dobrze!</string>
+    <string name="incorrect_answer">Zle!</string>
+</resources>
